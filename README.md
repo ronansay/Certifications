@@ -9,6 +9,8 @@ Certifications & Courses completed
 
 <img src = "images/Cypress_automation.png" width=100> <img src = "images/JMeter_Professional.png" width=100> <img src = "images/Postman_API_TESTER_CERTIFICATE.png" width=100>
 
+<img src = "images/Robocorp-robotframeWork.png" width=100>
+
 ### Scrum:
 
 <img src = "images/Scrum_foundation.png" width=100> <img src = "images/Scrum_master.png" width=100>
