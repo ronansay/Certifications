@@ -13,7 +13,7 @@ Certifications & Courses completed
 
 ### Scrum:
 
-<img src = "images/Scrum_foundation.png" width=100> <img src = "images/Scrum_master.png" width=100>
+<img src = "images/Scrum_foundation.png" width=100> <img src = "images/scrumMaster.png" width=80>
 
 ### Cloud & AI:
 
