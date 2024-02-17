@@ -1,5 +1,5 @@
 # Certifications
-Certifications & Courses completed
+Certifications & Courses Completed
 
 ### DevOps:
 
