@@ -6,7 +6,7 @@ Certifications & Courses Completed
 
 <img src = "images/safe_devops_6.png" width=100>
 
-### Automation:
+### Test Automation:
 
 <img src = "images/Cypress_automation.png" width=100> <img src = "images/JMeter_Professional.png" width=100> <img src = "images/Postman_API_TESTER_CERTIFICATE.png" width=100>
 
